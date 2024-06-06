@@ -1,4 +1,4 @@
-/* Main Style */
+/*styles for my resume*/
 
 
 BODY {
@@ -8,8 +8,7 @@ BODY {
     font-weight:400;
 }
 
-
-
+/*banner name at top*/
 h1 {
     font-size:3em;
     text-transform:uppercase;
@@ -23,6 +22,7 @@ strong {
     font-size: 1.5em;
 }
 
+/*journalism experience*/
 h2 {
     font-size: 1.5em;
     text-transform: uppercase;
@@ -30,18 +30,24 @@ h2 {
     color:#fff;
 }
 
+/*job title at the Testudo Times*/
 h3 {
     font-weight: 600;
     font-size:1.5em;
 }
 
+/*organization name*/
 h4 {
     font-weight: 400;
     font-size: 1.5em;
 }
 
+/*time as staff writer at the Testudo Times*/
 h5 {
     font-weight: 400;
     font-size: 1em;
 }
 
+h2 ul li {
+     font-size: 1em; 
+}
