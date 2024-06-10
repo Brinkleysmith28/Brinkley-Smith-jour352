@@ -9,7 +9,17 @@ BODY {
 }
 
 /*banner name at top*/
-h1 {
+#name {
+    font-size: 3em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #33485e;
+    border: bottom 1px;
+    border-color: #33485e;
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto; 
+}
     font-size:3em;
     text-transform:uppercase;
     text-align:center;
@@ -49,6 +59,10 @@ h5 {
 }
 
  h2 ul li {
+    font-size: 1em;
+ }
+
+ head {
     font-size: 1em;
  }
 
