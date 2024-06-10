@@ -20,42 +20,55 @@ BODY {
     min-width: 300px;
     margin: 0 auto; 
 }
-    font-size:3em;
-    text-transform:uppercase;
-    text-align:center;
-    color:#33485e;
-}
-
-strong {
+   
+/*title*/
+#title {
     color:#33485e;
     text-transform: uppercase;
     font-size: 1.5em;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
-/*journalism experience*/
-h2 {
+/*section titles: experience, education, skills*/
+.sectionheader{
     font-size: 1.5em;
     text-transform: uppercase;
     background-color:#33485e;
     color:#fff;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 70%;
+    min-width: 300px;
 }
 
-/*job title at the Testudo Times*/
-h3 {
+/*job position*/
+.jobtitle {
     font-weight: 600;
     font-size:1.5em;
 }
 
-/*organization name*/
-h4 {
+/*organization name */
+.organization {
     font-weight: 400;
-    font-size: 1.5em;
+    font-size: 1.25em;
 }
 
 /*time as staff writer at the Testudo Times*/
-h5 {
+.date {
     font-weight: 400;
-    font-size: 1em;
+    font-size: 1.5em;
+    font-style: italic;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
  h2 ul li {
