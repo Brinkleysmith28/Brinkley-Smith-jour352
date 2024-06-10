@@ -14,7 +14,7 @@ BODY {
     text-transform: uppercase;
     text-align: center;
     color: #33485e;
-    border: bottom 1px;
+    border-bottom: 1px;
     border-color: #33485e;
     width: 60%;
     min-width: 300px;
