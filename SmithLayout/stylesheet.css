@@ -24,3 +24,8 @@ h1 {
     font-size: 13px;
 }
 
+/*center all images*/
+img {
+    margin: 0 auto;
+    display: block;
+}
