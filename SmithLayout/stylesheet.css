@@ -32,3 +32,9 @@ h1 {
     text-align: center;
     margin: 0 auto;
 }
+
+blockquote {
+    font-size: 28px;
+    font-style: italic;
+    color: blue;
+}
