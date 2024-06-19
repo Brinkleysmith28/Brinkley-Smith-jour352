@@ -45,3 +45,11 @@ p {
     font-size: 14px;
     font-style: italic;
 }
+
+blockquote {
+    font-size: 28px;
+    font-style: italic;
+    color: red;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
