@@ -42,14 +42,38 @@ p {
 
 #byline {
     font-family: Helvetica, sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     font-style: italic;
 }
 
 blockquote {
-    font-size: 28px;
+    font-size: 30px;
     font-style: italic;
     color: red;
     padding-top: 25px;
     padding-bottom: 25px;
+}
+
+ul {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#caption1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    text-align: center;
+}
+
+#caption2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    text-align: center;
+}
+
+#caption3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    text-align: center;
 }
