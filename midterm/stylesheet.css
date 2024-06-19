@@ -9,20 +9,24 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
     text-align: center;
+    font-style: oblique;
 }
 
 h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
+    font-style: oblique;
 }
 
 h4 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
+    font-style: oblique;
 }
 h5 {
     font-family: Helvetica, 'Times New Roman', Times, serif;
     font-size: 25px;
+    font-style: oblique;
 }
 
 
@@ -43,8 +47,8 @@ p {
 }
 
 #byline {
-    font-family: Helvetica, sans-serif;
-    font-size: 12px;
+    font-family: Georgia, Arial, sans-serif;
+    font-size: 14px;
     font-style: italic;
     text-align: center;
 }
@@ -86,3 +90,9 @@ ul {
     font-size: 10px;
     text-align: center;
 }
+
+.masthead {
+    text-align: center;
+    width: 950px;
+}
+
