@@ -103,3 +103,7 @@ strong {
     font-size: 85px;
     line-height: 1;
 }
+
+.line {
+    line-height: 0;
+}
