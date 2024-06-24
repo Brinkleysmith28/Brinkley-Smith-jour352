@@ -1,1 +1,9 @@
 /*styles for bootstrap resume*/
+
+.col-md-3 {
+    text-align: center;
+}
+
+.col-md-6 {
+    text-align: center;
+}
