@@ -1,5 +1,9 @@
 /*styles for bootstrap resume*/
 
+.open-sans {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .col-md-3 {
     text-align: center;
     margin: 0 auto;
