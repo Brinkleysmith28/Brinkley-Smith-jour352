@@ -2,8 +2,11 @@
 
 .col-md-3 {
     text-align: center;
+    margin: 0 auto;
+
 }
 
 .col-md-6 {
     text-align: center;
+    margin: 0 auto;
 }
