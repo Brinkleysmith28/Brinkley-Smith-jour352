@@ -91,3 +91,16 @@ map{
     margin: 0 auto;
     width: 100%;
 }
+
+strong {
+    font-family:georgia, serif;
+    font-size: 25px;
+    line-height: 1;
+    color: #158649;
+}
+
+#caption {
+    color: black;
+    font-family: "Montserrat", sans-serif;
+    font-size: x-small;
+}
