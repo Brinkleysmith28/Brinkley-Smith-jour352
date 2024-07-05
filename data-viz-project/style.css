@@ -1,3 +1,4 @@
+/*top half style for header*/
 .headline {
     font-size: 3em;
     font-weight: 700;
@@ -10,6 +11,7 @@
     text-transform: uppercase;
     font-family: "Montserrat", sans-serif;
     text-align: center;
+    font-style: italic;
 }
 
 p {
@@ -36,6 +38,8 @@ p {
     font-size: 1em;
     color: #C8C8C8;
 }
+
+/*end of top half*/
 
 .col-sm {
     text-align: center;
@@ -89,19 +93,25 @@ blockquote {
 }
 
 map{
-    margin: 0 auto;
     width: 100%;
 }
 
+
+/*strong tag style for the start of sub heads*/
 strong {
     font-family:georgia, serif;
     font-size: 25px;
     line-height: 1;
     color: #158649;
 }
+/* end strong tag style for the start of sub heads*/
 
 #caption {
     color: black;
     font-family: "Montserrat", sans-serif;
     font-size: x-small;
+}
+
+image {
+    width: 100%;
 }
