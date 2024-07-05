@@ -76,6 +76,7 @@ p {
 blockquote {
     font-size: 30px;
     font-style: italic;
+    font-weight: bold;
     color: #158649;
     padding-top: 25px;
     padding-bottom: 25px;
