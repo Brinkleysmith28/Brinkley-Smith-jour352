@@ -70,3 +70,11 @@ p {
     font-family: georgia, serif;
     font-size: 2em;
 }
+
+blockquote {
+    font-size: 30px;
+    font-style: italic;
+    color: #158649;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
