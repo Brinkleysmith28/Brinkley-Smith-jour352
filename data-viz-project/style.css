@@ -77,4 +77,11 @@ blockquote {
     color: #158649;
     padding-top: 25px;
     padding-bottom: 25px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.line {
+    color: #158649;
+    line-height: 0;
+    font-weight: bolder;
 }
